@@ -1,22 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Cooperation against the odds"
+    url: /Cooperation/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Brexit & place"
+    url: /Brexit/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "EU & Greek politics"
+    url: /EUGreece/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "PE of local development"
+    url: /PELED/
+
