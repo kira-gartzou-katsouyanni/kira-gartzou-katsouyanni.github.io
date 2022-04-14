@@ -43,3 +43,6 @@ In this chapter I explore the historical roots of pro- and anti-EU attitudes in 
 * Kira Gartzou-Katsouyanni and Philip Schnattinger (3/7/2015), [“Say ‘Yes’ to Europe: A response to Joseph Stiglitz’s ‘How I would vote in the Greek referendum’”](http://britain-europe.com/2015/07/03/say-yes-to-europe-a-response-to-joseph-stiglitz/), UCL European Institute’s “Britain and Europe” blog.
 
 * Kira Gartzou-Katsouyanni (24/6/2015), [“What Precisely is the Greek Government’s Mandate?”](http://britain-europe.com/2015/06/24/what-precisely-is-the-greek-governments-mandate/),UCL European Institute’s “Britain and Europe” blog. 
+
+![](/images/Launch.jpg) 
+With Claudia Sternberg and Kalypso Nicolaïdis in Ferbruary 2018
