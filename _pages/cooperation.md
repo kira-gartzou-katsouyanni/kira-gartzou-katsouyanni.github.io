@@ -22,7 +22,7 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 
 * My PhD thesis is entitled "Cooperation against the odds: a study on the political economy of local development in a country with small firms and small farms". It can be accessed [here](http://etheses.lse.ac.uk/4307/).
 
-# Scholarships, grants and awards
+## Scholarships, grants and awards
 
 * ESRC Postdoctoral Fellowship, January-December 2022
 
