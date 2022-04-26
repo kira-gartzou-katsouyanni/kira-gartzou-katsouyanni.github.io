@@ -30,7 +30,7 @@ We started exploring those questions in three panels that we organised at the [2
 
 ## Next steps
 
-1. [In-person workshop](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop/?lang=en&fbclid=IwAR3sbTDef716lXUriIDgBHG_3BfyiUvEu3doG4Qn-3OaFE91QERj0mmLNx4) on 20/5/22 at the Faculty of Economics of the University of Belgrade, Serbia. 
+1. [In-person workshop](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop/?lang=en&fbclid=IwAR3sbTDef716lXUriIDgBHG_3BfyiUvEu3doG4Qn-3OaFE91QERj0mmLNx4) on 20/5/22 at the Faculty of Economics of the University of Belgrade, Serbia. [Workshop Agenda](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop-agenda/?lang=en&mlang=lat&fbclid=IwAR3uWyiCj08AUbkVw3O8Iw3FPivFvNlxt39rgTpk3mboFawfEdo3WAyGt4g) 
 
 2. In-person workshop at the LSE's European Institute in fall 2022.
 
