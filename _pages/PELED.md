@@ -26,19 +26,3 @@ We are interested in a variety of factors that can help address those questions,
 
 5.	The motivation of local actors for adopting innovative strategies to address challenges faced by their local sector and/ or community
 
-## Work to date 
-
-We started exploring those questions in three panels that we organised at the [2021 Annual conference of the Council for European Studies (CES)](https://councilforeuropeanstudies.org/wp-content/uploads/2021/12/CES-Final-Conference-Program-2021.pdf) (p. 120) and the [2021 Annual Conference of the Society for Advanced Socio-Economics (SASE)](http://sase.org/wp-content/uploads/2021/07/SASE-Virtual-Meeting-2021-Program.pdf) (pp. 64-65, 129).
-
-On 20 May 2022, Sonja and I organised a [hybrid workshop](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop/?lang=en&fbclid=IwAR3sbTDef716lXUriIDgBHG_3BfyiUvEu3doG4Qn-3OaFE91QERj0mmLNx4) on the political economy of local development in the semi-periphery at the Economics Faculty of the University of Belgrade. The workshop agenda can be accessed [here](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop-agenda/?lang=en&mlang=lat&fbclid=IwAR3uWyiCj08AUbkVw3O8Iw3FPivFvNlxt39rgTpk3mboFawfEdo3WAyGt4g).
-
-## Next steps
-
-1. Submission of a special issue proposal.
-
-2. In-person workshop at the LSE's European Institute in November 2022.
-
-**Are you interested in participating in this project?** Get in touch with Sonja (sonja.avlijas@ekof.bg.ac.rs) and myself (k.gartzou-katsouyanni@lse.ac.uk)!
-
-![](/images/Belgrade.jpg) 
-Workshop at the Economics Faculty of the University of Belgrade, 20 May 2022
