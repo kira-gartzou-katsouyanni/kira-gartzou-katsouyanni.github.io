@@ -6,21 +6,10 @@ header:
   image: "Marthos.JPG"
 author_profile: true
 ---
-## About
+## Courses taught
 
-Is it possible to get economic actors to work together in order to achieve mutually beneficial outcomes in unfavourable settings? 
-
-Established theories of cooperation suggest that overcoming the obstacles to cooperation requires either a robust framework of formal institutions or a long-established culture of trust. Many places in the world are endowed with neither of those characteristics. Yet, in the presence of fragmented ownership structures, sustained cooperation among economic actors is important for processes of economic development, which themselves have major implications for domestic political dynamics.
-
-In my PhD thesis, I approached the puzzle of the emergence of cooperation in unfavourable settings by drawing on qualitative empirical evidence collected through fieldwork in four areas of Greece where specific types of cooperation were observed, compared to four otherwise similar (matching) cases where such patterns of cooperation failed to occur. Some results were also tested using quantitative methods and fieldwork evidence from Southern Italy.  
-
-My thesis argues that for cooperation to emerge against the odds, the crucial variable is leadership. A small group of boundary-spanning leading actors can trigger a process of creating local-level cooperative institutions by performing three specific types of difficult and costly institutional work. Successful leaders tend to be translocally embedded, highly skilled, well connected actors, who have a subjective conception of their self-interest as encapsulating the interests of others. The institutional work of a small group of local-level leading actors can only catalyse broad-based, sustained cooperation if it is nested within a framework of facilitative overarching institutions. Crucially, supranational actors such as the EU can also provide such facilitative macro-level institutions, thereby to an extent compensating for deficiencies in national institutional frameworks.
-
-By combining analysis of local-level agency and processes, on the one hand, and macro-level institutional frameworks, on the other, my thesis makes a contribution to our understanding of institutional change, the emergence of cooperation, and the political economy of local development in fragmented economies.
-
-## PhD thesis
-
-* My PhD thesis is entitled "Cooperation against the odds: a study on the political economy of local development in a country with small firms and small farms". It can be accessed [here](http://etheses.lse.ac.uk/4307/).
+* “Politics, Institutions and Economy in 21st Century Europe” at LSE Executive Education (POL 147A), September-December 2019 (Graduate Teaching Assistant, one 2-hour seminar per week with 13 visiting undergraduate students from University of California, Davis)
+* “Government, Politics and Public Policy in the EU” at the LSE Government Department [(GV251)](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/GV/2021_GV251.htm), September 2017-May 2019 (Graduate Teaching Assistant, two 1-hour seminars per week with 15 students in each class)
 
 ## Scholarships, grants and awards
 
