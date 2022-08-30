@@ -36,13 +36,13 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 
 1. Journal articles in progress:
     
-    * Kira Gartzou-Katsouyanni, “Beyond mere side-payments? Underappreciated properties of EU policies in fostering local cooperation”
+    * Kira Gartzou-Katsouyanni, “Beyond mere side-payments? Underappreciated properties of EU policies in fostering local cooperation” (under review)
     
     * Kira Gartzou-Katsouyanni, “Leadership and the emergence of cooperative institutions in unfavourable settings”
 
-2. Preparation of a Special Issue proposal on the “Political Economy of Local Development in the Semi-Periphery” with Sonja Avjlijaš (see [here](/PELED))
+2. Special Issue proposal on the “Political Economy of Local Development in the Semi-Periphery” with Sonja Avjlijaš (see [here](/PELED))
 
-3. Preparation of a book manuscript
+3. Preparation of a book proposal
 
 ## Public engagement
 
