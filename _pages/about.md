@@ -17,4 +17,4 @@ My PhD [thesis](http://etheses.lse.ac.uk/4307/) is a study on the political econ
 
 In addition to my academic research, I am passionate about teaching and policy-making. I have taught courses on EU politics, international relations, and qualitative methods in London, Bologna, Washington DC, and Athens. I have also worked as a member of the office of the Greek Minister of Education, a policy officer at the European Commission’s SRSS (now DG REFORM), and a trainee in the cabinet of the President of the European Commission.
 
-This website is structured based on my research projects. For a list of publications by type and other information about my experience, please kindly refer to my [CV](/files/CV Mar 22.pdf). 
+This website is structured based on my research projects. For a list of publications by type and other information about my experience, please kindly refer to my [CV](/files/CV Aug 22.pdf). 
