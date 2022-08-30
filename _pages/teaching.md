@@ -36,9 +36,25 @@ Sample handouts can be found below.
 1. [The Political System of the EU, the Council](/files/1. MT W2 handout.pdf)
 2. [The Commission](/files/2. MT W3 handout.pdf)
 3. [The European Parliament](/files/3. MT W4 Handout.pdf)
+4. [The European Court of Justice](/files/4. MT W5 Handout.pdf)
+5. [Public opinion](/files/5. MT W7 Handout.pdf)
+6. [European elections](/files/6. MT W8 Handout.pdf)
+7. [Political parties and Europe](/files/7. MT W9 Handout.pdf)
+8. [The 'democratic deficit' debate](/files/8. MT W10 Handout.pdf)
+9. [Interest representation](/files/9. MT W11 Handout.pdf)
+10. [Understanding EU Policy-Making: Actors, Institutions and Agendas](/files/10. LT W1 Handout.pdf)
+11. [Understanding EU Policy-Making: Decision Making](/files/11. LT W2 Handout.pdf)
+12. [Understanding EU Policy-Making: Implementation](/files/12. LT W3 handout.pdf)
+13. [Regulation of the Single Market](/files/13. LT W4 handout.pdf)
+14. [The EU Budget and Redistributive Policies](/files/14. LT W5 handout.pdf)
+15. [Economic and Monetary Union](/files/15. LT W7 Handout.pdf)
+16. [Immigration and asylum policies](/files/16. LT W8 Handout.pdf)
+17. [Justice and Home Affairs policies](/files/17. LT W9 Handout.pdf)
+18. [Foreign policy](/files/18. LT W10 handout.pdf)
 
+## Training
 
-
+* LSE Postgraduate Certificate in Higher Education (PGCertHE), Associate Level Certificate, awarded December 2018
 
 
  
