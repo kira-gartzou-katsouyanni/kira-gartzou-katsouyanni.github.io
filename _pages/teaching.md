@@ -25,6 +25,18 @@ author_profile: true
 
 * Class Teacher Award, Department of Government, LSE teaching awards 2018 *(awarded in recognition of: “Kira’s excellent teaching, reflected in strong student feedback scores. Students particularly appreciate her timely, effective feedback and the inclusive, interactive nature of her classes.”)*
 
+## Sample teaching material
+
+As a teacher, I enjoy preparing teaching activities that capture students’ attention, invite them to think about current events in light of theory and historical experience, and cater to their diverse learning styles. 
+
+In that spirit, I prepared a set of handouts for the undergraduate LSE course on “Government, Politics and Public Policy in the EU” (GV251). This teaching material is still being used for undergraduate teaching at the Government Department and graduate teaching at the European Institute. 
+
+Sample handouts can be found below. 
+
+1. [The Political System of the EU, the Council](/files/1. MT W2 handout.pdf)
+2. [The Commission](/files/2. MT W3 handout.pdf)
+3. [The European Parliament](/files/3. MT W4 Handout.pdf)
+
 
 
 
