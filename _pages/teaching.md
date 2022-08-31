@@ -52,7 +52,9 @@ Sample handouts can be found below.
 17. [Justice and Home Affairs policies](/files/17. LT W9 Handout.pdf)
 18. [Foreign policy](/files/18. LT W10 handout.pdf)
 
+## Sample student evaluations (courses GV251, POL147A)
 
+![](/images/Evaluations2.png) 
  
 ## Training
 
