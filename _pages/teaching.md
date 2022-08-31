@@ -56,6 +56,6 @@ Sample handouts can be found below.
 
 * LSE Postgraduate Certificate in Higher Education (PGCertHE), Associate Level Certificate, awarded December 2018
 
-![](/images/Evaluations) 
+![](/images/Evaluations.png) 
 Sample student evaluation comments for the courses GV251 and POL147A (see above)
  
