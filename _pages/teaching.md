@@ -40,7 +40,7 @@ Sample handouts can be found below.
 5. [Public opinion](/files/5. MT W7 Handout.pdf)
 6. [European elections](/files/6. MT W8 Handout.pdf)
 7. [Political parties and Europe](/files/7. MT W9 Handout.pdf)
-8. [The 'democratic deficit' debate](/files/8. MT W10 Handout.pdf)
+8. [The 'democratic deficit' debate](/files/8. MT W10 Handout .pdf)
 9. [Interest representation](/files/9. MT W11 Handout.pdf)
 10. [Understanding EU Policy-Making: Actors, Institutions and Agendas](/files/10. LT W1 Handout.pdf)
 11. [Understanding EU Policy-Making: Decision Making](/files/11. LT W2 Handout.pdf)
@@ -56,5 +56,6 @@ Sample handouts can be found below.
 
 * LSE Postgraduate Certificate in Higher Education (PGCertHE), Associate Level Certificate, awarded December 2018
 
-
+![](/images/Evaluations) 
+Sample student evaluation comments for the courses GV251 and POL147A (see above)
  
