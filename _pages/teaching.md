@@ -17,7 +17,7 @@ author_profile: true
 
 ## Supervision
 
-* **MSc Dissertation Supervisor** of 5 students in the [“Political Economy of Europe”](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2022/MSc-Political-Economy-of-Europe) programme, European Institute, LSE, February-June 2022
+* **MSc Dissertation Supervisor** for the [“Political Economy of Europe”](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2022/MSc-Political-Economy-of-Europe) programme, European Institute, LSE (5 students, February-June 2022)
 
 ## Awards
 
