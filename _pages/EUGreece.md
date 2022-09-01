@@ -6,7 +6,6 @@ header:
 permalink: /EUGreece/
 author_profile: true
 ---
-Beyond the political economy of place, I have a broader interest in EU as well as in Greek domestic politics. In addition to my published work in those fields, I have very much enjoyed teaching the seminars for the LSE Government Department’s undergraduate course on “Government, Politics and Public Policy in the EU” (GV251) and the LSE Executive Education course on “Politics, Institutions and Economy in 21st Century Europe” (POL 147A). 
 
 ## The Greco-German affair in the Euro crisis: Mutual recognition lost?
 
