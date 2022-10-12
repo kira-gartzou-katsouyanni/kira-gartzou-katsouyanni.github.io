@@ -36,11 +36,11 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 
 1. Journal articles in progress:
     
-    * Kira Gartzou-Katsouyanni, “Beyond mere side-payments? Underappreciated properties of EU policies in fostering local cooperation” (under review)
+    * Kira Gartzou-Katsouyanni, "Obstacles to local cooperation in fragmented economies: An integrated framework". Invited contribution for a Special Issue of the *Cambridge Journal of Regions, Economy and Society* on "Left Behind Places and What Can Be Done About Them". 
     
-    * Kira Gartzou-Katsouyanni, “Leadership and the emergence of cooperative institutions in unfavourable settings”
+    * Kira Gartzou-Katsouyanni, "Beyond mere cash transfers? The EU’s agricultural and cohesion policies as facilitators of local cooperation". To be submitted to *Socio-Economic Review* in November 2022.
 
-2. Special Issue proposal on the “Political Economy of Local Development in the Semi-Periphery” with Sonja Avjlijaš (see [here](/PELED))
+2. Ongoing Special Issue project on the “Political Economy of Local Development in the Semi-Periphery” with Sonja Avjlijaš (see [here](/PELED))
 
 3. Preparation of a book proposal
 
