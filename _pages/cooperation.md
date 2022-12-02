@@ -34,17 +34,23 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 
 ## Next steps
 
-1. Journal articles in progress:
+1. Working papers:
     
-    * Kira Gartzou-Katsouyanni, "Obstacles to local cooperation in fragmented economies: An integrated framework". Invited contribution for a Special Issue of the *Cambridge Journal of Regions, Economy and Society* on "Left Behind Places and What Can Be Done About Them". 
+    * Kira Gartzou-Katsouyanni, "Obstacles to local cooperation in fragmented, left-behind economies: An integrated framework". Invited contribution for a Special Issue of the *Cambridge Journal of Regions, Economy and Society* on "Left Behind Places and What Can Be Done About Them" (under review).
     
-    * Kira Gartzou-Katsouyanni, "Beyond mere cash transfers? The EU’s agricultural and cohesion policies as facilitators of local cooperation". To be submitted to *Socio-Economic Review* in November 2022.
+    * Kira Gartzou-Katsouyanni, "Beyond mere rent payments? The Common Agricultural Policy as a facilitator of local cooperation" (under preparation)
 
 2. Ongoing Special Issue project on the “Political Economy of Local Development in the Semi-Periphery” with Sonja Avjlijaš (see [here](/PELED))
 
-3. Preparation of a book proposal
+3. Submission of a book proposal
 
 ## Public engagement
+
+* Kira Gartzou-Katsouyanni (15/11/2022), invited talk at the “Third Joint EU Cohesion Policy Conference" organised by the European Commission (DG REGIO), the Croatian Ministry of Regional Development and EU Funds, and the Regional Studies Association (Europe) in Zagreb.
+
+* Kira Gartzou-Katsouyanni (10/11/2022), participation at the Greek public broadcaster (ERT)'s [8pm news programme “Prime”](https://drive.google.com/file/d/1mnO7Z4LoV3NeVGoBj5rwQkbyAxhhnDOA/view?usp=sharing) to discuss my [ELIAMEP policy paper](https://www.eliamep.gr/en/publication/%ce%b7-%cf%83%cf%85%ce%bd%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%af%ce%b1-%cf%83%ce%b5-%ce%b1%ce%bd%cf%84%ce%af%ce%be%ce%bf%ce%b5%cf%82-%cf%83%cf%85%ce%bd%ce%b8%ce%ae%ce%ba%ce%b5%cf%82-%cf%80%cf%8e%cf%82/)
+
+* Kira Gartzou-Katsouyanni (3/11/2022) [“Cooperation against the odds: Getting small firms to work together in unfavourable circumstances”](https://www.eliamep.gr/en/publication/%ce%b7-%cf%83%cf%85%ce%bd%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%af%ce%b1-%cf%83%ce%b5-%ce%b1%ce%bd%cf%84%ce%af%ce%be%ce%bf%ce%b5%cf%82-%cf%83%cf%85%ce%bd%ce%b8%ce%ae%ce%ba%ce%b5%cf%82-%cf%80%cf%8e%cf%82/), Policy Paper #115, Hellenic Foundation for European & Foreign Policy (ELIAMEP). Available in both English and Greek.
 
 * Stathis Kalyvas and Kira Gartzou-Katsouyanni (31/5/2020), [“The tourism that we wish for”](https://www.kathimerini.gr/opinion/1080743/o-toyrismos-poy-epithymoyme/) (in Greek), opinion article in the Greek daily Kathimerini
 
@@ -58,6 +64,9 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 
 ![](/images/Santo.jpeg)
 Talking about my dissertation findings at a public event in Santorini on 18/4/19
+
+[![](/images/ERT.jpeg)](https://drive.google.com/file/d/1mnO7Z4LoV3NeVGoBj5rwQkbyAxhhnDOA/view?usp=sharing)
+Talking about my ELIAMEP policy paper at the Greek public broadcaster's 8pm news programme on 10/11/22
 
 
 
