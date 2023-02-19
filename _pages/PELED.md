@@ -14,7 +14,13 @@ Scholars are increasingly advocating a strong, activist developmental state as a
 
 We are interested in empirical cases where domestic firms engage with these multiple constraining features of the semi-periphery and develop strategies to overcome them. Under which conditions have such local actors been able to carve out opportunities for developing innovative capabilities despite the developmental constraints associated with semi-peripherality? Which macro-level policies have facilitated their endeavors, and what kinds of coalitions succeed in promoting them at the national and international levels, despite adverse circumstances? By focusing on these puzzles in concrete empirical settings, the goal of this project is to examine dynamic pro-developmental strategies that allow firms to overcome obstacles and capitalize on opportunities observed in semi-peripheral contexts.
 
-## Work to date 
+## Upcoming Special Issue workshop
+
+In the framework of this project, Sonja Avlijaš and I are co-editing a Special Issue on "Firm-centred, multi-level approaches to overcoming semi-peripheral constraints". The Special Issue is due to appear in *Studies in Comparative International Development* (SCID) in 2024.
+
+Our Special Issue workshop will take place at the LSE on 20 March 2023. You can find the agenda [here](https://drive.google.com/file/d/1L4636LaFavSTFGxPX-gWkUt3dIkR1D6O/view?usp=sharing).
+
+## Previous work 
 
 We started exploring those questions in three panels that we organised at the [2021 Annual conference of the Council for European Studies (CES)](https://councilforeuropeanstudies.org/wp-content/uploads/2021/12/CES-Final-Conference-Program-2021.pdf) (p. 120) and the [2021 Annual Conference of the Society for Advanced Socio-Economics (SASE)](http://sase.org/wp-content/uploads/2021/07/SASE-Virtual-Meeting-2021-Program.pdf) (pp. 64-65, 129).
 
@@ -22,13 +28,7 @@ On 20 May 2022, we organised a [hybrid workshop](http://www.ekof.bg.ac.rs/scient
 
 We presented our theoretical framework at the [2022 Annual SASE conference](http://sase.org/wp-content/uploads/2022/07/SASE-Amsterdam-Program-2022.pdf).
 
-Our Special Issue proposal is currently under review.
-
-## Next step
-
-Organisation of an in-person workshop at the LSE's European Institute in March 2022.
-
-**Are you interested in participating in this project?** Get in touch with Sonja (sonja.avlijas@ekof.bg.ac.rs) and myself (k.gartzou-katsouyanni@lse.ac.uk)!
+**Are you interested to learn more about this project?** Get in touch with Sonja (sonja.avlijas@ekof.bg.ac.rs) and myself (k.gartzou-katsouyanni@lse.ac.uk)!
 
 ![](/images/Belgrade.JPG) 
 Workshop at the Economics Faculty of the University of Belgrade, 20 May 2022
