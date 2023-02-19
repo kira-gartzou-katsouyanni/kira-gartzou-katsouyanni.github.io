@@ -14,7 +14,7 @@ Scholars are increasingly advocating a strong, activist developmental state as a
 
 We are interested in empirical cases where domestic firms engage with these multiple constraining features of the semi-periphery and develop strategies to overcome them. Under which conditions have such local actors been able to carve out opportunities for developing innovative capabilities despite the developmental constraints associated with semi-peripherality? Which macro-level policies have facilitated their endeavors, and what kinds of coalitions succeed in promoting them at the national and international levels, despite adverse circumstances? By focusing on these puzzles in concrete empirical settings, the goal of this project is to examine dynamic pro-developmental strategies that allow firms to overcome obstacles and capitalize on opportunities observed in semi-peripheral contexts.
 
-## Upcoming Special Issue workshop
+## Upcoming Special Issue
 
 In the framework of this project, Sonja Avlijaš and I are co-editing a Special Issue on "Firm-centred, multi-level approaches to overcoming semi-peripheral constraints". The Special Issue is due to appear in *Studies in Comparative International Development* (SCID) in 2024.
 
