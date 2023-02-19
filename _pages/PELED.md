@@ -18,7 +18,7 @@ We are interested in empirical cases where domestic firms engage with these mult
 
 In the framework of this project, Sonja Avlijaš and I are co-editing a Special Issue on "Firm-centred, multi-level approaches to overcoming semi-peripheral constraints". The Special Issue is due to appear in *Studies in Comparative International Development* (SCID) in 2024.
 
-Our Special Issue workshop will take place at the LSE on 20 March 2023. You can find the agenda [here](https://drive.google.com/file/d/1L4636LaFavSTFGxPX-gWkUt3dIkR1D6O/view?usp=sharing).
+Our Special Issue workshop will take place at the LSE on 20 March 2023. You can find the agenda [here](/files/LSE workshop_20 March 2023 v5.pdf)
 
 ## Previous work 
 
