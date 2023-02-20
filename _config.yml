@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kira Gartzou-Katsouyanni"
 title_separator          : "-"
 name                     : &name "Kira Gartzou-Katsouyanni"
-description              : &description 
+description              : &description "Postdoctoral researcher, European Institute, LSE"
 url                      : https://kira-gartzou-katsouyanni.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kira-gartzou-katsouyanni/kira-gartzou-katsouyanni.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kira Gartzou-Katsouyanni"
   avatar           : "Kira22.JPG"
-  bio              : "ESRC Postdoctoral Fellow,
+  bio              : "Postdoctoral researcher,
   European Institute, LSE"
   email            : "k.gartzou-katsouyanni[AT]lse.ac.uk"
   twitter          : "/kiragk2"
