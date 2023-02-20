@@ -36,7 +36,7 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 
 1. Working papers:
     
-    * Kira Gartzou-Katsouyanni, "Obstacles to local cooperation in fragmented, left-behind economies: An integrated framework". Invited contribution for a Special Issue of the *Cambridge Journal of Regions, Economy and Society* on "Left Behind Places and What Can Be Done About Them" (under review).
+    * Kira Gartzou-Katsouyanni, "Obstacles to local cooperation in fragmented, left-behind economies: An integrated framework" (under review)
     
     * Kira Gartzou-Katsouyanni, "Beyond mere rent payments? The Common Agricultural Policy as a facilitator of local cooperation" (under preparation)
 
