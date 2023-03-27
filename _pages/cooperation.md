@@ -22,6 +22,12 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 
 * My PhD thesis is entitled "Cooperation against the odds: a study on the political economy of local development in a country with small firms and small farms". It can be accessed [here](http://etheses.lse.ac.uk/4307/).
 
+## Journal articles
+
+* Kira Gartzou-Katsouyanni, "Obstacles to local cooperation in fragmented, left-behind economies: An integrated framework" (accepted with minor revisions at the *Cambridge Journal of Regions, Economy and Society*)
+
+* Kira Gartzou-Katsouyanni, "Beyond mere rent payments? The Common Agricultural Policy as a facilitator of local cooperation" (under review)
+
 ## Scholarships, grants and awards
 
 * ESRC Postdoctoral Fellowship, January-December 2022
@@ -31,18 +37,6 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 * Early Career Workshop Award, Society for the Advancement of Socio-Economics (SASE), 2019 (awarded on a competitive basis to 14 early career researchers, enabling them to participate at a career development workshop and covering the registration, travel and accommodation costs of attending SASE’s annual conference in New York)
 
 * UACES Travel Scholarship, 2018 (competitive grant awarded by the Academic Association for Contemporary European Studies for my PhD fieldwork)
-
-## Next steps
-
-1. Working papers:
-    
-    * Kira Gartzou-Katsouyanni, "Obstacles to local cooperation in fragmented, left-behind economies: An integrated framework" (under review)
-    
-    * Kira Gartzou-Katsouyanni, "Beyond mere rent payments? The Common Agricultural Policy as a facilitator of local cooperation" (under preparation)
-
-2. Ongoing Special Issue project on the “Political Economy of Local Development in the Semi-Periphery” with Sonja Avjlijaš (see [here](/PELED))
-
-3. Submission of a book proposal
 
 ## Public engagement
 
