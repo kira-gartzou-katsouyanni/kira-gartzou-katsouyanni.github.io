@@ -31,6 +31,8 @@ In this chapter I explore the historical roots of pro- and anti-EU attitudes in 
 
 ## Articles and blog posts
 
+* Kira Gartzou-Katsouyanni (29 March 2023), [“Women in Greek politics: It’s time to turn the page”](https://www.lifo.gr/guest-editors/gynaikes-stin-politiki-zoi-eftase-i-stigmi-gia-allagi-selidas) (in Greek), *LIFO* opinion article.
+
 * Kira Gartzou-Katsouyanni (10/12/2019), [letter to *The Guardian*](https://www.theguardian.com/politics/2019/dec/10/eu-pride-and-the-view-from-1970s-brussels?fbclid=IwAR0KB7vlzeQtejN4Nm1sLjW9T9T2j-J79KJvbn_H4Uhxqbn4x510pxBG47Q)
 
 * Kira Gartzou-Katsouyanni (October 2019), [“An ethnographic study of the Greek community of Oxford: preliminary reflections”](http://seesoxdiaspora.org/publications/briefs/an-ethnographic-study-of-the-greek-community-of-oxford-preliminary-reflections), SEESOX Diaspora Briefs. 
