@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "Understanding Brexit at a local level"
+title: "Globalisation and the politics of place"
 header: 
   image: "Mansfieldmuseum5.JPG"
 permalink: /Brexit/
 author_profile: true
 ---
-## About
+
+This strand of my work explores how globalisation is reshaping domestic politics in European countries. Given that the economic effects of globalisation are highly uneven in spatial terms, focusing on “place", rather than just on the individual and national levels of analysis, can be a useful way to approach this topic. Rather than vieweing contemporary politics as being structured by an economic and an orthogonal cultural dimension, I am particularly interested in the ways in which traditionalist cultural attitudes often go hand-in-hand with regional economic decline in the context of globalisation.
+
+## Understanding Brexit at a local level
 
 Did local context influence voters’ electoral choices in the 2016 EU referendum in the UK? Why did people in specific post-industrial or agricultural areas vote Leave, when exiting the EU was likely to be, by most scientific accounts, economically damaging? Can theories emphasising economic factors truly contribute to our understanding of a referendum result that appeared contrary to many voters’ economic interests? These were some of the questions that motivated our research team to start working on a project about the local-level context and impact of the 2016 referendum in five British local authorities: Barnet, Ceredigion, Mansfield, Pendle, and Southampton. 
 
@@ -20,9 +23,11 @@ At the same time, our participatory research approach provided us with an opport
 
 ## Journal articles
 
-1. Kira Gartzou-Katsouyanni, Max Kiefel and José Olivas Osuna (2022) [‘Voting for your pocketbook, but against your pocketbook? A Study of Brexit at the local level’](https://doi.org/10.1177/0032329221992198), *Politics & Society* 50(1) 
+1. Roch Dunin-Wąsowicz and Kira Gartzou-Katsouyanni (2023) ['Geographical Dimensions of Populist Euroscepticism'](https://doi.org/10.1177/14789299231201810), *Political Studies Review*
 
-2. José Olivas Osuna, Max Kiefel and Kira Gartzou-Katsouyanni (2021) [‘Place matters: analyzing the roots of political distrust and Brexit narratives at a local level’](https://doi.org/10.1111/gove.12545), *Governance* 34(4)
+2.  Kira Gartzou-Katsouyanni, Max Kiefel and José Olivas Osuna (2022) [‘Voting for your pocketbook, but against your pocketbook? A Study of Brexit at the local level’](https://doi.org/10.1177/0032329221992198), *Politics & Society* 50(1) 
+
+3. José Olivas Osuna, Max Kiefel and Kira Gartzou-Katsouyanni (2021) [‘Place matters: analyzing the roots of political distrust and Brexit narratives at a local level’](https://doi.org/10.1111/gove.12545), *Governance* 34(4)
 
 ## Public engagement
 
