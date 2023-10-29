@@ -16,9 +16,9 @@ We are interested in empirical cases where domestic firms engage with these mult
 
 ## Upcoming Special Issue
 
-In the framework of this project, Sonja Avlijaš and I are co-editing a Special Issue on "Firm-centred, multi-level approaches to overcoming semi-peripheral constraints". The Special Issue is due to appear in *Studies in Comparative International Development* (SCID) in 2024.
+In the framework of this project, Sonja Avlijaš and I are co-editing a Special Issue on "Firm-centred, multi-level approaches to overcoming semi-peripheral constraints". The Special Issue is under review with *Studies in Comparative International Development* (SCID).
 
-Our Special Issue workshop will take place at the LSE on 20 March 2023. You can find the agenda [here](/files/LSE workshop_20 March 2023 v5.pdf)
+Our Special Issue took place at the LSE on 20 March 2023. You can find the agenda [here](/files/LSE workshop_20 March 2023 v5.pdf)
 
 ## Previous work 
 
@@ -27,8 +27,6 @@ We started exploring those questions in three panels that we organised at the [2
 On 20 May 2022, we organised a [hybrid workshop](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop/?lang=en&fbclid=IwAR3sbTDef716lXUriIDgBHG_3BfyiUvEu3doG4Qn-3OaFE91QERj0mmLNx4) on the political economy of local development in the semi-periphery at the Economics Faculty of the University of Belgrade. The workshop agenda can be accessed [here](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop-agenda/?lang=en&mlang=lat&fbclid=IwAR3uWyiCj08AUbkVw3O8Iw3FPivFvNlxt39rgTpk3mboFawfEdo3WAyGt4g).
 
 We presented our theoretical framework at the [2022 Annual SASE conference](http://sase.org/wp-content/uploads/2022/07/SASE-Amsterdam-Program-2022.pdf).
-
-**Are you interested to learn more about this project?** Get in touch with Sonja (sonja.avlijas@ekof.bg.ac.rs) and myself (k.gartzou-katsouyanni@lse.ac.uk)!
 
 ![](/images/Belgrade.JPG) 
 Workshop at the Economics Faculty of the University of Belgrade, 20 May 2022
