@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "EU and Greek politics"
+title: "Land inequality and the politics of place in advanced democracies"
 header: 
   image: "Rainbow3.jpeg"
-permalink: /EUGreece/
+permalink: /Land/
 author_profile: true
 ---
 
