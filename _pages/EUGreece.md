@@ -7,6 +7,8 @@ permalink: /EUGreece/
 author_profile: true
 ---
 
+My earliest academic work explored the historical and ideational underpinnings of pro- and anti-EU sentiments. I have co-authored a book on the Greco-German relationship during the Eurozone crisis and a book chapter on the historical roots of Euroscepticism and Europhilia within the Greek left. I regularly write commentaries and press articles on Greek and EU politics.
+
 ## The Greco-German affair in the Euro crisis: Mutual recognition lost?
 
 * Claudia Sternberg, Kira Gartzou-Katsouyanni, and Kalypso Nicolaïdis (2018) [*The Greco-German Affair in the Euro Crisis: Mutual Recognition Lost?*](https://link.springer.com/book/10.1057/978-1-137-54751-4) London: Palgrave Pivot
