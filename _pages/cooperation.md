@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cooperation"
+title: "Cooperation against the odds"
 permalink: /Cooperation/
 header: 
   image: "Grapes6.jpeg"
