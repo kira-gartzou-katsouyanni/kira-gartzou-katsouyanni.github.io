@@ -6,6 +6,9 @@ header:
 permalink: /PELED/
 author_profile: true
 ---
+
+This collaborative Special Issue project aims to improve our understanding of developmental trajectories in semi-peripheral areas, challenging the stark North-South divide in the political economy and international development literatures. 
+
 ## About
 
 Firms in semi-peripheral areas, which do not belong to the global core or to the periphery in terms of their production and trade profiles, can be important developmental agents as they seek creative ways to avoid being trapped by both market and government failures. Shifting to more innovative, higher value-added segments of the global market is challenging in semi-peripheral contexts characterized by low trust, social fragmentation, and path dependencies of old development models. Firms outside the core are also limited at the international level, by regulatory and financial constraints and by the dominant role of large multinational companies in the global value chains governing the production of a range of sophisticated goods. 
