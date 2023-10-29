@@ -1,17 +1,20 @@
 # main links links
 main:
-  - title: "Cooperation against the odds"
+  - title: "Cooperation"
     url: /Cooperation/
 
-  - title: "Brexit & place"
+  - title: "Place"
     url: /Brexit/    
 
-  - title: "EU & Greek politics"
-    url: /EUGreece/    
-    
-  - title: "PE of local development"
+  - title: "Semi-periphery"
     url: /PELED/
 
+  - title: "EU & Greece"
+    url: /EUGreece/    
+    
+  - title: "Land"
+    url: /Land/
+    
   - title: "Teaching"
     url: /Teaching/
 
