@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cooperation against the odds"
+title: "Cooperation"
 permalink: /Cooperation/
 header: 
   image: "Grapes6.jpeg"
@@ -24,7 +24,7 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 
 ## Journal articles
 
-* Kira Gartzou-Katsouyanni, "Obstacles to local cooperation in fragmented, left-behind economies: An integrated framework" (accepted with minor revisions at the *Cambridge Journal of Regions, Economy and Society*)
+* Kira Gartzou-Katsouyanni (2023), ["Obstacles to local cooperation in fragmented, left-behind economies: An integrated framework"](https://doi.org/10.1093/cjres/rsad037), *Cambridge Journal of Regions, Economy and Society*
 
 * Kira Gartzou-Katsouyanni, "Beyond mere rent payments? The Common Agricultural Policy as a facilitator of local cooperation" (under review)
 
