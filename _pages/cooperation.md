@@ -6,6 +6,9 @@ header:
   image: "Grapes7.jpeg"
 author_profile: true
 ---
+
+My work on the political economy of cooperation explains how diverse stakeholders can start working together to achieve mutually beneficial goals in low-trust, institutionally weak environments. I have addressed this question in the context of my PhD thesis, my ESRC postdoctoral fellowship at the LSE's European Institute, and my Hellenic Bank Association postdoctoral fellowship at the LSE's Hellenic Observatory.
+
 ## About
 
 Is it possible to get economic actors to work together in order to achieve mutually beneficial outcomes in unfavourable settings? 
@@ -29,6 +32,8 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 * Kira Gartzou-Katsouyanni, 'Beyond mere rent payments? The Common Agricultural Policy as a facilitator of local cooperation' (under review)
 
 ## Scholarships, grants and awards
+
+* Hellenic Bank Association Postdoctoral Fellowship, January-December 2023
 
 * ESRC Postdoctoral Fellowship, January-December 2022
 
