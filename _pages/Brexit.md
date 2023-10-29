@@ -7,7 +7,7 @@ permalink: /Brexit/
 author_profile: true
 ---
 
-This strand of my work explores how globalisation is reshaping domestic politics in European countries. Given that the economic effects of globalisation are highly uneven in spatial terms, focusing on “place", rather than just on the individual and national levels of analysis, can be a useful way to approach this topic. Rather than vieweing contemporary politics as being structured by an economic and an orthogonal cultural dimension, I am particularly interested in the ways in which traditionalist cultural attitudes often go hand-in-hand with regional economic decline in the context of globalisation.
+This strand of my work explores how globalisation is reshaping domestic politics in European countries. Given that the economic effects of globalisation are highly uneven in spatial terms, focusing on “place" (and not just on the individual and national levels of analysis) can be a useful way to approach this topic. Rather than vieweing contemporary politics as being structured by an economic and an orthogonal cultural dimension, I am particularly interested in the ways in which traditionalist cultural attitudes often go hand-in-hand with regional economic decline in the context of globalisation. Most of my work on this topic to date has been done in the context of the collaborative project "Understanding Brexit at a local level" (see below), but recently I have been working on some new papers on the pro-/anti-globalisation cleavage in politics.
 
 ## Understanding Brexit at a local level
 
