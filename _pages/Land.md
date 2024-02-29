@@ -7,7 +7,7 @@ permalink: /Land/
 author_profile: true
 ---
 
-From January 2024 on, I will start a new project on "land inequality and the politics of place in advanced democracies" in the framework of a Leverhulme Early Career Fellowsip at the Department of Politics and International Relations (DPIR) in Oxford.
+Since January 2024, I am working on a new project on "land inequality and the politics of place in advanced democracies" in the framework of a Leverhulme Early Career Fellowsip at the Department of Politics and International Relations (DPIR) in Oxford.
 
 ## About
 
