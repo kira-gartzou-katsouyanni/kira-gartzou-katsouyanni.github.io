@@ -45,7 +45,7 @@ On 20 May 2022, we organised a [hybrid workshop](http://www.ekof.bg.ac.rs/scient
 
 We presented our theoretical framework at the [2022 Annual SASE conference](http://sase.org/wp-content/uploads/2022/07/SASE-Amsterdam-Program-2022.pdf).
 
-![](/images/SASE.JPG) 
+![](/images/SASE.jpg) 
 Presentation of our Special Issue at the SASE annual conference in Limerick, 29 June 2024
 
 ![](/images/Belgrade.JPG) 
