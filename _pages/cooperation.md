@@ -21,15 +21,15 @@ My thesis argues that for cooperation to emerge against the odds, the crucial va
 
 By combining analysis of local-level agency and processes, on the one hand, and macro-level institutional frameworks, on the other, my thesis makes a contribution to our understanding of institutional change, the emergence of cooperation, and the political economy of local development in fragmented economies.
 
-## PhD thesis
-
-* My PhD thesis is entitled "Cooperation against the odds: a study on the political economy of local development in a country with small firms and small farms". It can be accessed [here](http://etheses.lse.ac.uk/4307/).
-
 ## Journal articles
 
 * Kira Gartzou-Katsouyanni (2024), ['How can public policies facilitate local cooperation? insights from the EU’s wine policy'](https://doi.org/10.1080/13563467.2024.2305252), *New Political Economy* (online)
 
 * Kira Gartzou-Katsouyanni (2023), ['Obstacles to local cooperation in fragmented, left-behind economies: An integrated framework'](https://doi.org/10.1093/cjres/rsad037), *Cambridge Journal of Regions, Economy and Society* (online)
+
+## PhD thesis
+
+* My PhD thesis is entitled "Cooperation against the odds: a study on the political economy of local development in a country with small firms and small farms". It can be accessed [here](http://etheses.lse.ac.uk/4307/).
 
 ## Scholarships, grants and awards
 
@@ -38,6 +38,8 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 * ESRC Postdoctoral Fellowship, January-December 2022
 
 * London School of Economics, Full PhD Scholarship, 2016-2020
+
+* Early Career Plenary Speaker, annual conference of the Regional Studies Association (RSA), 11-14 June 2024
 
 * Early Career Workshop Award, Society for the Advancement of Socio-Economics (SASE), 2019 (awarded on a competitive basis to 14 early career researchers, enabling them to participate at a career development workshop and covering the registration, travel and accommodation costs of attending SASE’s annual conference in New York)
 
