@@ -25,7 +25,7 @@ By combining analysis of local-level agency and processes, on the one hand, and 
 
 * Kira Gartzou-Katsouyanni (2024), ['How can public policies facilitate local cooperation? insights from the EU’s wine policy'](https://doi.org/10.1080/13563467.2024.2305252), *New Political Economy* (online)
 
-* Kira Gartzou-Katsouyanni (2023), ['Obstacles to local cooperation in fragmented, left-behind economies: An integrated framework'](https://doi.org/10.1093/cjres/rsad037), *Cambridge Journal of Regions, Economy and Society* (online)
+* Kira Gartzou-Katsouyanni (2024), ['Obstacles to local cooperation in fragmented, left-behind economies: An integrated framework'](https://doi.org/10.1093/cjres/rsad037), *Cambridge Journal of Regions, Economy and Society* 17(2)
 
 ## PhD thesis
 
