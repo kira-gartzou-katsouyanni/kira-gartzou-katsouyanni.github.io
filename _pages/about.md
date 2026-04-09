@@ -21,4 +21,4 @@ I am a co-editor of a Special Issue entitled "Firm-centred, multi-level approach
 
 In addition to my academic research, I am passionate about teaching and policy-making. I have taught courses on EU politics, comparative political economy, the political economy of the green transition, international relations, and qualitative methods in Oxford, London, Bologna, Washington DC, and Athens. I have also worked as a member of the office of the Greek Minister of Education, a policy officer at the European Commission’s SRSS (now DG REFORM), and a trainee in the cabinet of the President of the European Commission.
 
-This website is structured based on my research projects. For a list of publications by type and other information about my experience, please kindly refer to my [CV](/files/CV Aug 24.pdf). 
+This website is structured based on my research projects. For a list of publications by type and other information about my experience, please kindly refer to my [CV](/files/CV April 2026.pdf). 
