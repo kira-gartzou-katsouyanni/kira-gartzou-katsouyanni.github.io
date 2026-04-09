@@ -3,17 +3,17 @@ main:
   - title: "Cooperation"
     url: /Cooperation/
 
-  - title: "Politics of place"
-    url: /Brexit/    
+  - title: "Land inequality"
+    url: /Land/
 
   - title: "Semi-periphery"
     url: /PELED/
 
+  - title: "Brexit"
+    url: /Brexit/    
+
   - title: "EU & Greece"
     url: /EUGreece/    
-    
-  - title: "Land inequality"
-    url: /Land/
     
   - title: "Teaching"
     url: /Teaching/
