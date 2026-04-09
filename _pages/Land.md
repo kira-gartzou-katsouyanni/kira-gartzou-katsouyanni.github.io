@@ -7,7 +7,7 @@ permalink: /Land/
 author_profile: true
 ---
 
-## Land inequality and the politics of place in advanced democracies
+## The project 
 
 The distribution of land is nearly absent in contemporary political economy scholarship on advanced democracies. We usually associate land conflict with agriculture, and - so the usual argument goes - as the importance of agriculture declined in the Global North, the salience of the land distribution declined with it. This project, funded by a three-year Leverhulme Trust Early Career Fellowship, challenges this view. Many sectors other than agriculture use land as a key input: from tourism to urban retail, from energy production to carbon offsetting, from manufacturing to wholesale distribution in post-industrial areas. How land is distributed locally - the degree to which it is concentrated or fragmented - determines what types of economic opportunities local residents have in areas specialised in those sectors, and, as a result, how they think about politics. The project explores those relations with geospatial analysis based on cadastral (land registry) data in the context of Greece, Spain, and the UK.
 
