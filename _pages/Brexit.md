@@ -7,9 +7,9 @@ permalink: /Brexit/
 author_profile: true
 ---
 
-This strand of my work explores how globalisation is reshaping domestic politics in European countries. Given that the economic effects of globalisation are highly uneven in spatial terms, focusing on “place" (and not just on the individual and national levels of analysis) can be a useful way to approach this topic. Rather than vieweing contemporary politics as being structured by an economic and an orthogonal cultural dimension, I am particularly interested in the ways in which traditionalist cultural attitudes often go hand-in-hand with regional economic decline in the context of globalisation. 
-
 ## Journal articles
+
+The following journal articles reflect my interest in how globalisation is reshaping domestic politics in European countries. Given that the economic effects of globalisation are highly uneven in spatial terms, focusing on “place" (and not just on the individual and national levels of analysis) can be a useful way to approach this topic. Rather than vieweing contemporary politics as being structured by an economic and an orthogonal cultural dimension, I am particularly interested in the ways in which traditionalist cultural attitudes often go hand-in-hand with regional economic decline in the context of globalisation. 
 
 1. Roch Dunin-Wąsowicz and Kira Gartzou-Katsouyanni (2025) ['Geographical Dimensions of Populist Euroscepticism'](https://doi.org/10.1177/14789299231201810), *Political Studies Review* 23(2)
 
