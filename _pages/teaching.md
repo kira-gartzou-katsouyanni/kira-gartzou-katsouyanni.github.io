@@ -8,12 +8,13 @@ author_profile: true
 ---
 ## Courses taught
 
+* **“European Governance”** at Oxford's DPIR, since January 2024 (Course instructor, I design and deliver two 2-hour classes and 4 one-hour tutorials on "state intervention in the economy" and "the EU's democratic deficit debate" for MPhil students)
+* **“Advanced Themes in European Politics”** at Oxford's DPIR, since January 2026 (Course instructor, I design and deliver a 2-hour class on "land politics" for MPhil students)
+* **“Politics of the European Union”** at Oxford's DPIR, since October 2025 (Lecturer, I deliver two 1-hour lectures on theories of European integration and the EU's trade, development and climate policies for undergraduate students)
+* **“Political Economy of the Green Transition in Europe”** at the LSE's European Institute, spring 2024 (Lecturer, I delivered three 1-hour lectures for MSc students)
 * **“Politics, Institutions and Economy in 21st Century Europe”** at LSE Executive Education (POL 147A), September-December 2019 (Graduate Teaching Assistant, one 2-hour seminar per week with 13 visiting undergraduate students from University of California, Davis)
 * **“Government, Politics and Public Policy in the EU”** at the LSE Government Department [(GV251)](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/GV/2021_GV251.htm), September 2017-May 2019 (Graduate Teaching Assistant, two 1-hour seminars per week with 15 students in each class)
-
-## Workshops convened 
-
-* **“Quantitative and qualitative research design in political science”** at [Panteion University](https://www.kpe-panteion.gr/el/nea/nea-anakoinoseis/item/302-methods-hub-political-science-in-casual-setups), Athens, 16-20 September 2019. Workshop co-convened and co-taught with Elli Palaiologou (10am-4pm each day; attended by 12 advanced undergraduate, master’s and PhD-level students selected from political science departments in Greece)
+* **“Quantitative and qualitative research design in political science”** at [Panteion University](https://www.kpe-panteion.gr/el/nea/nea-anakoinoseis/item/302-methods-hub-political-science-in-casual-setups), Athens, 16-20 September 2019. I co-designed and co-taught this 5-day workshop with my peer Elli Palaiologou (10am-4pm each day; attended by 12 advanced undergraduate, master’s and PhD-level students selected from political science departments in Greece). Since 2024, I also offer an annual workshop on research design at Panteion University in my role as a member of the Executive Committee of the Political Science Association’s Greek Politics Specialist Group.
 
 ## Supervision
 
