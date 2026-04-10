@@ -31,7 +31,7 @@ Our Special Issue took place at the LSE on 20 March 2023. You can find the agend
 
 ## Handbook chapter
 
-We further build on the work that we started with our SCID Special Issue in a chapter entitled "Firms and economic development in the semi-periphery", published in the ["Handbook of Comparative Political Economy"] (https://www.e-elgar.com/shop/gbp/handbook-of-comparative-political-economy-9781035327775.html?srsltid=AfmBOor2UzJe3cZd1Pu6YTiq0Dx9TavU-jZ3dZyNps08ijFmM6KAbKPT) edited by Marino Regini (Edward Elgar, 2025)
+We further build on the work that we started with our SCID Special Issue in a chapter entitled "Firms and economic development in the semi-periphery", published in the [*"Handbook of Comparative Political Economy"*](https://www.e-elgar.com/shop/gbp/handbook-of-comparative-political-economy-9781035327775.html?srsltid=AfmBOor2UzJe3cZd1Pu6YTiq0Dx9TavU-jZ3dZyNps08ijFmM6KAbKPT) edited by Marino Regini (Edward Elgar, 2025)
 
 ## Earlier work 
 
@@ -40,6 +40,9 @@ We started exploring those questions in three panels that we organised at the [2
 On 20 May 2022, we organised a [hybrid workshop](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop/?lang=en&fbclid=IwAR3sbTDef716lXUriIDgBHG_3BfyiUvEu3doG4Qn-3OaFE91QERj0mmLNx4) on the political economy of local development in the semi-periphery at the Economics Faculty of the University of Belgrade. The workshop agenda can be accessed [here](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop-agenda/?lang=en&mlang=lat&fbclid=IwAR3uWyiCj08AUbkVw3O8Iw3FPivFvNlxt39rgTpk3mboFawfEdo3WAyGt4g).
 
 We presented our theoretical framework at the [2022 Annual SASE conference](http://sase.org/wp-content/uploads/2022/07/SASE-Amsterdam-Program-2022.pdf).
+
+![](/images/SI launch.pdf)
+
 
 ![](/images/SASE.jpg) 
 Presentation of our Special Issue at the SASE annual conference in Limerick, 29 June 2024
