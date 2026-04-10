@@ -30,10 +30,10 @@ author_profile: true
 ## Sample student evaluations 
 
 ![](/images/Evaluations2.png) 
-Courses GV251 and POL147A at the LSE's Government Department and LSE Executive Education, respectively (2017-2019)
+Sample evaluations for courses GV251 and POL147A at the LSE's Government Department and LSE Executive Education, respectively (2017-2019)
 
 ![](/images/European Governance evaluations.png) 
-"European Governance" course at Oxford's DPIR (2024-2026)
+All evaluations for my classes at the "European Governance" course at Oxford's DPIR in fall 2025
 
 ## Sample teaching material
 
