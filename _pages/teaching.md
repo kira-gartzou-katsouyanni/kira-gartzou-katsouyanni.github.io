@@ -39,7 +39,7 @@ Courses GV251 and POL147A at the LSE's Government Department and LSE Executive E
 
 As a teacher, I enjoy preparing teaching activities that capture students’ attention, invite them to think about current events in light of theory and historical experience, and cater to their diverse learning styles. Sample teaching material can be found below.
 
-The following handouts were prepared for the course “Government, Politics and Public Policy in the EU” (GV251) in 2017-2019, and were used for several years after I left for undergraduate teaching at the Government Department and graduate teaching at the European Institute.
+The following handouts were prepared for the course “Government, Politics and Public Policy in the EU” (GV251) in 2017-2019, and were used for several years after I left for undergraduate teaching at the LSE's Government Department and graduate teaching at the LSE's European Institute.
 
 1. [The Political System of the EU, the Council](/files/1. MT W2 handout.pdf)
 2. [The Commission](/files/2. MT W3 handout.pdf)
