@@ -25,7 +25,7 @@ The Special Issue includes the following contributions:
 
 * Alen Toplišek, ["Beyond Dependent Development? The Unlikely Emergence of an Upgrading Alliance in the Case of InoBat in Slovakia"](https://doi.org/10.1007/s12116-024-09440-4)
 
-* Caroline Arnold and Adnan Naseemullah, "Seeking Autonomy in the Semi-Periphery: Neomercantilism and Diversification in Turkey" (forthcoming)
+* Caroline Arnold and Adnan Naseemullah, ["Seeking Autonomy in the Semi-Periphery: Neomercantilism and Diversification in Turkey"](https://link.springer.com/article/10.1007/s12116-024-09435-1)
 
 Our Special Issue took place at the LSE on 20 March 2023. You can find the agenda [here](/files/LSE workshop_20 March 2023 v5.pdf)
 
