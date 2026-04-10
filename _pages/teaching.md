@@ -14,10 +14,11 @@ author_profile: true
 * **“Political Economy of the Green Transition in Europe”** at the LSE's European Institute, spring 2024 (Lecturer, I delivered three 1-hour lectures for MSc students)
 * **“Politics, Institutions and Economy in 21st Century Europe”** at LSE Executive Education (POL 147A), September-December 2019 (Graduate Teaching Assistant, one 2-hour seminar per week with 13 visiting undergraduate students from University of California, Davis)
 * **“Government, Politics and Public Policy in the EU”** at the LSE Government Department [(GV251)](https://www.lse.ac.uk/resources/calendar2021-2022/courseGuides/GV/2021_GV251.htm), September 2017-May 2019 (Graduate Teaching Assistant, two 1-hour seminars per week with 15 students in each class)
-* **“Quantitative and qualitative research design in political science”** at [Panteion University](https://www.kpe-panteion.gr/el/nea/nea-anakoinoseis/item/302-methods-hub-political-science-in-casual-setups), Athens, 16-20 September 2019. I co-designed and co-taught this 5-day workshop with my peer Elli Palaiologou (10am-4pm each day; attended by 12 advanced undergraduate, master’s and PhD-level students selected from political science departments in Greece). Since 2024, I also offer an annual workshop on research design at Panteion University in my role as a member of the Executive Committee of the Political Science Association’s Greek Politics Specialist Group.
+* **“Quantitative and qualitative research design in political science”** at Panteion University, Athens, 16-20 September 2019. I co-designed and co-taught this 5-day workshop with my peer Elli Palaiologou (10am-4pm each day; attended by 12 advanced undergraduate, master’s and PhD-level students selected from political science departments in Greece). Since 2024, I also offer sessions at an annual 3-day workshop on research design at Panteion University in my role as a member of the Executive Committee of the Political Science Association’s Greek Politics Specialist Group.
 
 ## Supervision
 
+* **MPhil Dissertation Supervisor** for the 2-year “MPhil in Politics" programme (European Politics & Society and Comparative Government streams), Oxford's DPIR (3 students, since 2024)
 * **MSc Dissertation Supervisor** for the [“Political Economy of Europe”](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2022/MSc-Political-Economy-of-Europe) programme, European Institute, LSE (5 students, February-June 2022)
 
 ## Awards
@@ -26,13 +27,19 @@ author_profile: true
 
 * Class Teacher Award, Department of Government, LSE teaching awards 2018 *(awarded in recognition of: “Kira’s excellent teaching, reflected in strong student feedback scores. Students particularly appreciate her timely, effective feedback and the inclusive, interactive nature of her classes.”)*
 
+## Sample student evaluations 
+
+![](/images/Evaluations2.png) 
+Courses GV251 and POL147A at the LSE's Government Department and LSE Executive Education, respectively (2017-2019)
+
+![](/images/European Governance evaluations.png) 
+"European Governance" course at Oxford's DPIR (2024-2026)
+
 ## Sample teaching material
 
-As a teacher, I enjoy preparing teaching activities that capture students’ attention, invite them to think about current events in light of theory and historical experience, and cater to their diverse learning styles. 
+As a teacher, I enjoy preparing teaching activities that capture students’ attention, invite them to think about current events in light of theory and historical experience, and cater to their diverse learning styles. Sample teaching material can be found below.
 
-In that spirit, I prepared a set of handouts for the undergraduate LSE course on “Government, Politics and Public Policy in the EU” (GV251). This teaching material is still being used for undergraduate teaching at the Government Department and graduate teaching at the European Institute. 
-
-Sample handouts can be found below. 
+The following handouts were prepared for the course “Government, Politics and Public Policy in the EU” (GV251) in 2017-2019, and were used for several years after I left for undergraduate teaching at the Government Department and graduate teaching at the European Institute.
 
 1. [The Political System of the EU, the Council](/files/1. MT W2 handout.pdf)
 2. [The Commission](/files/2. MT W3 handout.pdf)
@@ -53,9 +60,12 @@ Sample handouts can be found below.
 17. [Justice and Home Affairs policies](/files/17. LT W9 Handout.pdf)
 18. [Foreign policy](/files/18. LT W10 handout.pdf)
 
-## Sample student evaluations (courses GV251, POL147A)
+The following is sample teaching material from some of the courses I have been teaching in Oxford's DPIR since 2024.
 
-![](/images/Evaluations2.png) 
+1. [Politics of the European Union, "Theories of European integration", undergraduate lecture](/files/Lecture_5_Theories_of_integration.pdf)
+2. [Politics of the European Union, "Europe in the World: Trade, Aid and Climate Policy", undergraduate lecture](/files/Lecture_10_Trade_development.pdf)
+3. [European Governance, "The EU and state intervention in the economy", MPhil class](/files/MT W5 - state intervention - handout.pdf)
+4. [European Governance, "The EU and democratic deficits", MPhil class](/files/Week 8 - democratic deficit - handout.pdf)
  
 ## Training
 
