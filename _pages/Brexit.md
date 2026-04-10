@@ -1,13 +1,25 @@
 ---
 layout: archive
-title: "Globalisation and the politics of place"
+title: "Globalisation, Brexit and the politics of place"
 header: 
   image: "Mansfieldmuseum5.JPG"
 permalink: /Brexit/
 author_profile: true
 ---
 
-This strand of my work explores how globalisation is reshaping domestic politics in European countries. Given that the economic effects of globalisation are highly uneven in spatial terms, focusing on “place" (and not just on the individual and national levels of analysis) can be a useful way to approach this topic. Rather than vieweing contemporary politics as being structured by an economic and an orthogonal cultural dimension, I am particularly interested in the ways in which traditionalist cultural attitudes often go hand-in-hand with regional economic decline in the context of globalisation. Most of my work on this topic to date has been done in the context of the collaborative project "Understanding Brexit at a local level" (see below), but recently I have been working on some new papers on the pro-/anti-globalisation cleavage in politics.
+This strand of my work explores how globalisation is reshaping domestic politics in European countries. Given that the economic effects of globalisation are highly uneven in spatial terms, focusing on “place" (and not just on the individual and national levels of analysis) can be a useful way to approach this topic. Rather than vieweing contemporary politics as being structured by an economic and an orthogonal cultural dimension, I am particularly interested in the ways in which traditionalist cultural attitudes often go hand-in-hand with regional economic decline in the context of globalisation. 
+
+## Journal articles
+
+1. Roch Dunin-Wąsowicz and Kira Gartzou-Katsouyanni (2023) ['Geographical Dimensions of Populist Euroscepticism'](https://doi.org/10.1177/14789299231201810), *Political Studies Review*
+
+2.  Kira Gartzou-Katsouyanni, Max Kiefel and José Olivas Osuna (2022) [‘Voting for your pocketbook, but against your pocketbook? A Study of Brexit at the local level’](https://doi.org/10.1177/0032329221992198), *Politics & Society* 50(1) 
+
+3. José Olivas Osuna, Max Kiefel and Kira Gartzou-Katsouyanni (2021) [‘Place matters: analyzing the roots of political distrust and Brexit narratives at a local level’](https://doi.org/10.1111/gove.12545), *Governance* 34(4)
+
+## Studying the effects of trade integration with firm-level microdata
+
+In our working paper entitled "Participating in globalisation: How local trade integration affects people’s second-dimension preferences", Sofia Vasilopoulou, Philip Schnattinger and I use firm-level microdata from the ONS Annual Business Survey to construct a novel measure of trade integration at the local level and study its effects on political preferences along the second dimension of politics. We find that individuals living in places that are well integrated in international markets and global value chains are more likely to support EU integration and view immigration favourably, and are less likely to support populist right parties. The paper offers a different perspective into the politics of globalisation, which are usually viewed through the lens of the China shock literature in political science.
 
 ## Understanding Brexit at a local level
 
@@ -20,14 +32,6 @@ We addressed those questions adopting a case study-based, participatory research
 At the same time, our participatory research approach provided us with an opportunity for iterative knowledge exchange with members of the communities in our case study areas. We visited our case study areas not only in the context of our initial fieldwork, but also after we had written our case study reports, in order to present our findings to local stakeholders and get their feedback. These occasions strengthened the quality of our data and also encouraged meaningful, forward-looking discussion among scholars and citizens as well as Leave and Remain voters.
 
 **Researchers involved in the project**: José Javier Olivas Osuna (coordinator), Mary Kaldor, Diane Bolet, Alexandra Bulat, Josh De Lyon, Kira Gartzou-Katsouyanni, Kuba Jablonowski, Max Kiefel
-
-## Journal articles
-
-1. Roch Dunin-Wąsowicz and Kira Gartzou-Katsouyanni (2023) ['Geographical Dimensions of Populist Euroscepticism'](https://doi.org/10.1177/14789299231201810), *Political Studies Review*
-
-2.  Kira Gartzou-Katsouyanni, Max Kiefel and José Olivas Osuna (2022) [‘Voting for your pocketbook, but against your pocketbook? A Study of Brexit at the local level’](https://doi.org/10.1177/0032329221992198), *Politics & Society* 50(1) 
-
-3. José Olivas Osuna, Max Kiefel and Kira Gartzou-Katsouyanni (2021) [‘Place matters: analyzing the roots of political distrust and Brexit narratives at a local level’](https://doi.org/10.1111/gove.12545), *Governance* 34(4)
 
 ## Public engagement
 
