@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Globalisation, Brexit and the politics of place"
+title: "Globalisation and the politics of place"
 header: 
   image: "Mansfieldmuseum5.JPG"
 permalink: /Brexit/
@@ -19,7 +19,7 @@ This strand of my work explores how globalisation is reshaping domestic politics
 
 ## Studying the effects of trade integration with firm-level microdata
 
-In our working paper entitled "Participating in globalisation: How local trade integration affects people’s second-dimension preferences", Sofia Vasilopoulou, Philip Schnattinger and I use firm-level microdata from the ONS Annual Business Survey to construct a novel measure of trade integration at the local level and study its effects on political preferences along the second dimension of politics. We find that individuals living in places that are well integrated in international markets and global value chains are more likely to support EU integration and view immigration favourably, and are less likely to support populist right parties. The paper offers a different perspective into the politics of globalisation, which are usually viewed through the lens of the China shock literature in political science.
+In our working paper entitled "Participating in globalisation: How local trade integration affects people’s second-dimension preferences", Sofia Vasilopoulou, Philip Schnattinger and I use firm-level microdata from the ONS Annual Business Survey to construct a novel measure of trade integration at the local level in the UK and study its effects on political preferences along the second dimension of politics. We find that individuals living in places that are well integrated in international markets and global value chains are more likely to support EU integration and view immigration favourably, and are less likely to support populist right parties. The paper offers a different perspective into the politics of globalisation, which are usually viewed through the lens of the China shock literature in political science.
 
 ## Understanding Brexit at a local level
 
