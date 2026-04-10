@@ -29,17 +29,11 @@ The Special Issue includes the following contributions:
 
 Our Special Issue took place at the LSE on 20 March 2023. You can find the agenda [here](/files/LSE workshop_20 March 2023 v5.pdf)
 
+On 20 May 2022, we organised a first [hybrid workshop](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop/?lang=en&fbclid=IwAR3sbTDef716lXUriIDgBHG_3BfyiUvEu3doG4Qn-3OaFE91QERj0mmLNx4) on the political economy of local development in the semi-periphery at the Economics Faculty of the University of Belgrade. The workshop agenda can be accessed [here](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop-agenda/?lang=en&mlang=lat&fbclid=IwAR3uWyiCj08AUbkVw3O8Iw3FPivFvNlxt39rgTpk3mboFawfEdo3WAyGt4g).
+
 ## Handbook chapter
 
 We further build on the work that we started with our SCID Special Issue in a chapter entitled "Firms and economic development in the semi-periphery", published in the [*"Handbook of Comparative Political Economy"*](https://www.e-elgar.com/shop/gbp/handbook-of-comparative-political-economy-9781035327775.html?srsltid=AfmBOor2UzJe3cZd1Pu6YTiq0Dx9TavU-jZ3dZyNps08ijFmM6KAbKPT) edited by Marino Regini (Edward Elgar, 2025)
-
-## Earlier work 
-
-We started exploring those questions in three panels that we organised at the [2021 Annual conference of the Council for European Studies (CES)](https://councilforeuropeanstudies.org/wp-content/uploads/2021/12/CES-Final-Conference-Program-2021.pdf) (p. 120) and the [2021 Annual Conference of the Society for Advanced Socio-Economics (SASE)](http://sase.org/wp-content/uploads/2021/07/SASE-Virtual-Meeting-2021-Program.pdf) (pp. 64-65, 129).
-
-On 20 May 2022, we organised a [hybrid workshop](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop/?lang=en&fbclid=IwAR3sbTDef716lXUriIDgBHG_3BfyiUvEu3doG4Qn-3OaFE91QERj0mmLNx4) on the political economy of local development in the semi-periphery at the Economics Faculty of the University of Belgrade. The workshop agenda can be accessed [here](http://www.ekof.bg.ac.rs/scientific-activities/projects/international-projects/horizon-2020/workshop-agenda/?lang=en&mlang=lat&fbclid=IwAR3uWyiCj08AUbkVw3O8Iw3FPivFvNlxt39rgTpk3mboFawfEdo3WAyGt4g).
-
-We presented our theoretical framework at the [2022 Annual SASE conference](http://sase.org/wp-content/uploads/2022/07/SASE-Amsterdam-Program-2022.pdf).
 
 ![](/images/SI launch.pdf)
 
