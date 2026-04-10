@@ -35,7 +35,8 @@ On 20 May 2022, we organised a first [hybrid workshop](http://www.ekof.bg.ac.rs/
 
 We further build on the work that we started with our SCID Special Issue in a chapter entitled "Firms and economic development in the semi-periphery", published in the [*Handbook of Comparative Political Economy*](https://www.e-elgar.com/shop/gbp/handbook-of-comparative-political-economy-9781035327775.html?srsltid=AfmBOor2UzJe3cZd1Pu6YTiq0Dx9TavU-jZ3dZyNps08ijFmM6KAbKPT) edited by Marino Regini (Edward Elgar, 2025)
 
-[View the image](/images/SI%20launch.pdf)
+![](/images/SI launch.png) 
+Special Issue launch event at Nuffield College, Oxford, 9 March 2026
 
 ![](/images/SASE.jpg) 
 Presentation of our Special Issue at the SASE annual conference in Limerick, 29 June 2024
