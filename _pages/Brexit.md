@@ -11,7 +11,7 @@ This strand of my work explores how globalisation is reshaping domestic politics
 
 ## Journal articles
 
-1. Roch Dunin-Wąsowicz and Kira Gartzou-Katsouyanni (2023) ['Geographical Dimensions of Populist Euroscepticism'](https://doi.org/10.1177/14789299231201810), *Political Studies Review*
+1. Roch Dunin-Wąsowicz and Kira Gartzou-Katsouyanni (2025) ['Geographical Dimensions of Populist Euroscepticism'](https://doi.org/10.1177/14789299231201810), *Political Studies Review* 23(2)
 
 2.  Kira Gartzou-Katsouyanni, Max Kiefel and José Olivas Osuna (2022) [‘Voting for your pocketbook, but against your pocketbook? A Study of Brexit at the local level’](https://doi.org/10.1177/0032329221992198), *Politics & Society* 50(1) 
 
