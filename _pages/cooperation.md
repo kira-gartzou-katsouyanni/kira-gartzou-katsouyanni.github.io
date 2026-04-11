@@ -19,11 +19,15 @@ In tackling these questions, the book bridges scholarship in comparative politic
 
 The book is under contract by *Cambridge University Press* and is expected to appear in the *Business and Politics* series in the first half of 2027.
 
-## Journal articles
+## Full-length journal articles
 
-* Kira Gartzou-Katsouyanni (2024), ['How can public policies facilitate local cooperation? insights from the EU’s wine policy'](https://doi.org/10.1080/13563467.2024.2305252), *New Political Economy* (online)
+* Kira Gartzou-Katsouyanni (2024), ['How can public policies facilitate local cooperation? insights from the EU’s wine policy'](https://doi.org/10.1080/13563467.2024.2305252), *New Political Economy* 29(4)
 
 * Kira Gartzou-Katsouyanni (2024), ['Obstacles to local cooperation in fragmented, left-behind economies: An integrated framework'](https://doi.org/10.1093/cjres/rsad037), *Cambridge Journal of Regions, Economy and Society* 17(2)
+
+## Short journal articles
+
+* Kira Gartzou-Katsouyanni (2024), ['Fostering Coordination to Bridge the UK's Regional Disparities: A Response to Rachel Reeves's Mais Lecture'](https://politicalquarterly.org.uk/blog/fostering-coordination-to-bridge-the-uks-regional-disparities-a-response-to-rachel-reevess-mais-lecture/), *The Political Quarterly* 95(4)
 
 ## PhD thesis
 
