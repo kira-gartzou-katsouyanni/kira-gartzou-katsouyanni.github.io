@@ -39,7 +39,9 @@ At the same time, our participatory research approach provided us with an opport
 
 2. [Recording of the discussion panel](https://www.youtube.com/watch?v=vSOewUSRR5Y) that we organised on the occasion of the launch of our Mansfield case study report. The event was organised in collaboration with Mansfield & Ashfield 2020. It took place at the Mansfield Central Library on 24/1/19 and was chaired by Dr. Lynn Oxborrow.
 
-3. Blog posts:
+3. Presentation of our findings at a public meeting in the House of Commons on “Brexit: Its Impact Nationally and Locally”, organised by GlobalNet21 and hosted by Bambos Charalambous MP on 11 March 2019. I participated in this event together with Jose Olivas Osuna and Diane Bolet.
+
+4. Blog posts:
     
     * Kira Gartzou-Katsouyanni (15/3/19), [“Understanding Brexit at a local level: Mansfield case study”](https://blogs.lse.ac.uk/eurocrisispress/2019/03/15/brexit-mansfield-lse-report/), LSE Euro Crisis in the Press blog. The blog presents some initial findings from the Mansfield case study. It was originally published in German as an [article](https://www.staedtebund.gv.at/fileadmin/USERDATA/oegz/dokumente/OeGZ_4_2019.pdf) in the journal of the Austrian Association of Cities and Towns.
 
