@@ -16,7 +16,7 @@ The distribution of land is nearly absent in contemporary political economy scho
 
 1. "Resort capitalism or smallholder tourism? How the land distribution still shapes the politics of place in advanced economies" (with Lamprini Rori). Based on data from the Hellenic and Spanish cadastres, the EU's Corine land cover database, the Google Places database, and national election results, this paper shows that the distribution of coastal land shapes the tourism models that develop in suitably endowed areas of Greece and Spain - with electoral consequences.
 
-2. "Turning economic disadvantages into resources for climate adaptation: smallholder and estate-based agriculture at a time of climate crisis" (with Dimitris Panagiotopoulos and Sotiris Alexakis). This paper explores the determinants of resilience of smallholder and estate-based agriculture at a time of climate crisis based on subnational case studies in Greece and Spain. 
+2. "Turning economic disadvantages into resources for climate adaptation: smallholder and estate-based agriculture at a time of climate crisis" (with Dimitris Panagiotopoulos and Sotiris Alexakis). This paper explores the determinants of resilience of smallholder and estate-based agriculture at a time of climate crisis based on subnational case studies. 
 
 3. "Land concentration and trajectories of deindustrialisation: Evidence from the UK". This paper uses UK land registry data to examine how land concentration shaped trajectories of industrialisation and deindustrialisation at a local level in Britain. 
 
